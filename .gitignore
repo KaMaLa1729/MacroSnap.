@@ -1,0 +1,15 @@
+
+# Private API keys and secrets
+.streamlit/secrets.toml
+.env
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Agent configuration
+.agents/
